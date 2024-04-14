@@ -60,7 +60,7 @@ class YoutubeWidget extends StatelessWidget {
         showFullscreenButton: true,
       ),
     );
-
+    
     return Padding(
       padding: const EdgeInsets.all(20),
       child: Column(
